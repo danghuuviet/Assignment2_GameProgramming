@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(210,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(344,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(392,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(393,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(394,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(416,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(416,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(416,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(416,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(422,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(423,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(425,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(426,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SDLtest\SDLtest\main.cpp(427,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SDLtest.vcxproj -> C:\Users\Admin\source\repos\SDLtest\x64\Debug\SDLtest.exe
